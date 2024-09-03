@@ -1,6 +1,9 @@
 ## Here are my UCC projects: 
-The data anylysis part of my group's thesis, and an assignment for the course of Business Intelligence and Analytics. Below is a brief introduction to each.
+This folder contains two projects completed during my studies at University College Cork (UCC). Below is a brief introduction to each:
 
-* Data Analysis For the Thesis: For the Collaborative Research Project(namely thesis), our group is supposed to have interviews to collect data on research questions. Based on that, thematic Analysis of Qualitative Data is needed. Being responsible for the data analysis part, I design the spreadsheet format for coding then use Python(Pandas) for data cleaning, formatting, and analysis.
+### Data Analysis For the Thesis
+For the Collaborative Research Project(thesis), my group conducted interviews to gather qualitative data on our research questions. 
+I was responsible for the data analysis portion of the project. My contributions included designing the spreadsheet format for coding the interview transcripts, and then using Python (Pandas) for data cleaning, formatting, and analysis, following the principles of thematic analysis.
   
-* Business Intelligence and Analytics Assignment: I conduct an analysis on Datasets of Streaming Platforms to portray current understanding of movie/TV streaming and to inform my analytic strategy and recommendations. This tabular dataset consists of listings of all the movies and tv shows available on four streaming platforms (Disney+, Netflix,Hulu, and Amazon Prime), along with details such as - cast, directors, ratings, releaseyear, duration, etc. Here I only showcase the dashboard using Tableau to visualize the streaming platforms dataset. 
+### Business Intelligence and Analytics Assignment
+In this project, I analyzed datasets from various streaming platforms to develop insights into the current state of movie and TV streaming. The dataset includes listings from four major platforms—Disney+, Netflix, Hulu, and Amazon Prime—with details such as cast, directors, ratings, release year, and duration. I utilized Tableau to create a dashboard that visualizes these datasets and provides strategic recommendations based on the analysis.
