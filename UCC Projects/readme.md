@@ -1,4 +1,5 @@
-## Here are my UCC projects: the data anylysis part of my group's thesis, and an assignment for the course of Business Intelligence and Analytics. Below is a brief introduction to each.
+## Here are my UCC projects: 
+The data anylysis part of my group's thesis, and an assignment for the course of Business Intelligence and Analytics. Below is a brief introduction to each.
 
 * Data Analysis For the Thesis: For the Collaborative Research Project(namely thesis), our group is supposed to have interviews to collect data on research questions. Based on that, thematic Analysis of Qualitative Data is needed. Being responsible for the data analysis part, I design the spreadsheet format for coding then use Python(Pandas) for data cleaning, formatting, and analysis.
   
