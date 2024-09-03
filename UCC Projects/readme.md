@@ -1,1 +1,5 @@
+## Here are my UCC projects: the data anylysis part of my group's thesis, and an assignment for the course of Business Intelligence and Analytics. Below is a brief introduction to each.
 
+* Data Analysis For the Thesis: For the Collaborative Research Project(namely thesis), our group is supposed to have interviews to collect data on research questions. Based on that, thematic Analysis of Qualitative Data is needed. Being responsible for the data analysis part, I design the spreadsheet format for coding then use Python(Pandas) for data cleaning, formatting, and analysis.
+  
+* Business Intelligence and Analytics Assignment: I conduct an analysis on Datasets of Streaming Platforms to portray current understanding of movie/TV streaming and to inform my analytic strategy and recommendations. This tabular dataset consists of listings of all the movies and tv shows available on four streaming platforms (Disney+, Netflix,Hulu, and Amazon Prime), along with details such as - cast, directors, ratings, releaseyear, duration, etc. Here I only showcase the dashboard using Tableau to visualize the streaming platforms dataset. 
