@@ -1,4 +1,4 @@
-##Here are projects from Forage
+## Here are projects from Forage
 * Accenture Data Analytics and Visualization job Simulation Project
   *Background*:
   Social Buzz is a media company who want:
