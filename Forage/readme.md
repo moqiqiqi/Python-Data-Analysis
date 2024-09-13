@@ -2,5 +2,5 @@
 
 * **Accenture Data Analytics and Visualization Job Simulation Project**<br>
   *Background:* Social Buzz is a media company that wants to merge sample datasets and analyze their content categories to highlight the top 5 categories with the largest aggregate popularity.<br>
-  *My Job:* Data cleaning, merging, and visualization using Python.![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+  *My Job:* Data cleaning, merging, and visualization using Python. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 * 
