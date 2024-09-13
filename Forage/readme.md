@@ -1,7 +1,6 @@
 ## Here are job Simulation Project from Forage
-* **Accenture Data Analytics and Visualization**<br>
-  ***Background***:Social Buzz is a media company who want:
+* **Accenture Data Analytics and Visualization job Simulation Project**<br>
+  ***Background***: Social Buzz is a media company who want:
   Merging of sample data set tables
   An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity<br>
-  ***My job***:
-  Data cleaning, merging, and visualization using python
+  ***My job***: Data cleaning, merging, and visualization using python
