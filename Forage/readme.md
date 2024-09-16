@@ -1,4 +1,4 @@
-## Job Simulation Projects from Forage
+## Job Simulation Projects from Forage ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-* **Accenture Data Analytics and Visualization Job Simulation Project** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-* **Quantium Data Analytics Virtual Internship Project** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+* **Accenture Data Analytics and Visualization Job Simulation Project** 
+* **Quantium Data Analytics Virtual Internship Project** 
