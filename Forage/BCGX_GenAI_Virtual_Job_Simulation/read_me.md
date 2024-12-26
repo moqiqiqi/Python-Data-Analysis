@@ -8,5 +8,4 @@ This Repository consists of all the Jupyter Notebook (.ipynb) files, python file
 [AI_driven_financial_chatbot_prototype.py](https://github.com/moqiqiqi/Python-Data-Analysis/blob/5a2a277f00390a8118e3bf7beebe96a3683941cd/Forage/BCGX_GenAI_Virtual_Job_Simulation/Task%202%3A%20Developing%20an%20AI%20Driven%20Financial%20ChatBot%20Prototype/AI_driven_financial_chatbot_prototype.py)
 [testing_AI_driven_financial_chatbot_prototype](https://github.com/moqiqiqi/Python-Data-Analysis/blob/5a2a277f00390a8118e3bf7beebe96a3683941cd/Forage/BCGX_GenAI_Virtual_Job_Simulation/Task%202%3A%20Developing%20an%20AI%20Driven%20Financial%20ChatBot%20Prototype/testing_AI_driven_financial_chatbot_prototype.ipynb)
 ---
-[Job Simulation Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_eQFKafZwooB2T4jft_1735203088690_completion_certificate.pdf){: .no-underline }
-
+[**Job Simulation Completion Certificate**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_eQFKafZwooB2T4jft_1735203088690_completion_certificate.pdf)
