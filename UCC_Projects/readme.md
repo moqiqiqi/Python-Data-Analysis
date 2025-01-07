@@ -1,5 +1,5 @@
-## UCC projects: 
-This folder contains two projects completed during my studies at University College Cork (UCC). Below is a brief introduction to each:
+## Academic projects: 
+This folder contains academic projects completed during my studies at University College Cork (UCC). Below is a brief introduction to each:
 
 ### Data Analysis For the Collaborative Research Project ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
