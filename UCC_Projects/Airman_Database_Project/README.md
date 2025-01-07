@@ -16,9 +16,10 @@ The first step was to identify the key entities and their attributes based on th
 ![Airman ERD](Airman_ERD.png)
 
 **Step 2: Implementing the Database in MySQL Workbench**  
-With the ERD as a blueprint, the next step was to implement the database schema in MySQL Workbench. This involved creating tables for each entity and defining their relationships.  
+- With the ERD as a blueprint, the next step was to implement the database schema in MySQL Workbench. This involved creating tables for each entity and defining their relationships.  
+- Populate the databases once created with mock data to demonstrate the system's functionality. This data serves as sample records to test and validate the database operations.  
 
-[Database Creation SQL Script](AirMan_script_file.sql)  
+[Database Creation and Population SQL Script](AirMan_script_file.sql)  
 
 Example Snippet:  
 -- CREATE TABLE IF NOT EXISTS customers (  
@@ -32,5 +33,3 @@ social_insurance_number INT UNSIGNED NOT NULL DEFAULT 0,
 PRIMARY KEY (customer_id)  
 );
 
-**Step 3: Inserting Data**  
-Mock data was inserted into the tables to demonstrate the system's functionality. This data serves as sample records to test and validate the database operations.
