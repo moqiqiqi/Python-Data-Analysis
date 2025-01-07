@@ -2,13 +2,9 @@
 This repository contains the design and implementation of the AirMan System for managing airport operations at London Biggin Hill Airport. It includes an ERD diagram, SQL scripts for database creation and data population.  
 
 ### Background  
-London Biggin Hill Airport has been publicly owned by the London Borough of Bromley since 1974. The airport operates as a public-private partnership, with Biggin Hill Airport Ltd. managing it on a commercial basis since 1994. It specializes in general aviation, serving private aircraft, business jets, and non-commercial flights.
+London Biggin Hill Airport has been publicly owned by the London Borough of Bromley since 1974. The airport operates as a public-private partnership, with Biggin Hill Airport Ltd. managing it on a commercial basis since 1994. It specializes in general aviation, serving private aircraft, business jets, and non-commercial flights. In 2016, the airport gained a boost in commercial potential when Bombardier relocated its European operations there. Additionally, in 2018, funding for the London Aerospace & Technology College and plans for an airport hotel were secured.
 
-In 2016, the airport gained a boost in commercial potential when Bombardier relocated its European operations there. Additionally, in 2018, funding for the London Aerospace & Technology College and plans for an airport hotel were secured.
-
-Currently, the airport’s operations rely on siloed, outdated systems. To improve efficiency, the CEO commissioned a project to replace these fragmented systems with a unified, modular design. The project aims to streamline core services, including customer parking, security, ground transport, aircraft maintenance, and charter services.
-
-The project involves the development of a new system, with the first module, AirMan, being developed by AirSoft, an Irish software company.
+Currently, the airport’s operations rely on siloed, outdated systems. To improve efficiency, the CEO commissioned a project to replace these fragmented systems with a unified, modular design. The project aims to streamline core services, including customer parking, security, ground transport, aircraft maintenance, and charter services.The project involves the development of a new system, with the first module, AirMan, being developed by AirSoft, an Irish software company.
 
 ### Project Approach  
 **Step 1: Creating the ERD Diagram**  
