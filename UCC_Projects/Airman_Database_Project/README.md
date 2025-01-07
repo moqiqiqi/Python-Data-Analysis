@@ -32,12 +32,3 @@ CREATE TABLE PERSON (
 
 **Step 3: Inserting Data**  
 Mock data was inserted into the tables to demonstrate the system's functionality. This data serves as sample records to test and validate the database operations.
-
-Example Snippet:  
--- Adding PERSON table data
-INSERT INTO PERSON (Name, AddressLine1, PhoneNumber, Email, SocialInsuranceNumber, Role)
-VALUES
-('John Doe', '123 Aviation Way', '555-1234', 'johndoe@example.com', '123-45-6789', 'Customer'),
-('Alice Smith', '234 Skyline Blvd', '555-2345', 'alicesmith@example.com', '987-65-4321', 'Pilot'),
-('Bob Johnson', '345 Jetstream St', '555-3456', 'bobjohnson@example.com', '135-79-2468', 'Employee');
-
