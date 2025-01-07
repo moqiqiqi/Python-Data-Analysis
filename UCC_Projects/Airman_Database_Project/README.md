@@ -13,7 +13,7 @@ The project involves the development of a new system, with the first module, Air
 ### Project Approach  
 **Step 1: Creating the ERD Diagram**  
 The first step was to identify the key entities and their attributes based on the project requirements. The ERD provides a visual representation of the database schema, showing how different entities are related to each other. The ERD provides a visual representation of the database schema, showing how different entities are related to each other.  
-![Airman ERD](images/Airman_ERD.png)
+![Airman ERD](Airman_ERD.png)
 
 **Step 2: Implementing the Database in MySQL Workbench**  
 With the ERD as a blueprint, the next step was to implement the database schema in MySQL Workbench. This involved creating tables for each entity and defining their relationships.
