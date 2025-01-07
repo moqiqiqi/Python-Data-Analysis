@@ -10,15 +10,14 @@ Currently, the airport’s operations rely on siloed, outdated systems. To impro
 
 The project involves the development of a new system, with the first module, AirMan, being developed by AirSoft, an Irish software company.
 
-### Project Approach 
-<hr style="border: 1px solid #ccc;" />
-**Step 1: Creating the ERD Diagram**
+### Project Approach  
+**Step 1: Creating the ERD Diagram**  
 The first step was to identify the key entities and their attributes based on the project requirements. The ERD provides a visual representation of the database schema, showing how different entities are related to each other. The ERD provides a visual representation of the database schema, showing how different entities are related to each other.
 
 **Step 2: Implementing the Database in MySQL Workbench**  
 With the ERD as a blueprint, the next step was to implement the database schema in MySQL Workbench. This involved creating tables for each entity and defining their relationships.
 
-Example Snippet:
+Example Snippet:  
 -- Creating PERSON table
 CREATE TABLE PERSON (
   PersonID INT AUTO_INCREMENT PRIMARY KEY,
@@ -34,7 +33,7 @@ CREATE TABLE PERSON (
 **Step 3: Inserting Data**  
 Mock data was inserted into the tables to demonstrate the system's functionality. This data serves as sample records to test and validate the database operations.
 
-Example Snippet:
+Example Snippet:  
 -- Adding PERSON table data
 INSERT INTO PERSON (Name, AddressLine1, PhoneNumber, Email, SocialInsuranceNumber, Role)
 VALUES
