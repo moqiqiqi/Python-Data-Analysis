@@ -18,16 +18,15 @@ The first step was to identify the key entities and their attributes based on th
 With the ERD as a blueprint, the next step was to implement the database schema in MySQL Workbench. This involved creating tables for each entity and defining their relationships.
 
 Example Snippet:  
--- Creating PERSON table
-CREATE TABLE PERSON (
-  PersonID INT AUTO_INCREMENT PRIMARY KEY,
-  Name VARCHAR(255) NOT NULL,
-  AddressLine1 VARCHAR(255) NOT NULL,
-  AddressLine2 VARCHAR(255),
-  PhoneNumber VARCHAR(15) NOT NULL,
-  Email VARCHAR(255) NOT NULL,
-  SocialInsuranceNumber VARCHAR(15) UNIQUE,
-  Role ENUM('Customer', 'Pilot', 'Employee') NOT NULL
+-- CREATE TABLE IF NOT EXISTS customers (
+customer_id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+name VARCHAR(20) NOT NULL DEFAULT '',
+address VARCHAR(20) NOT NULL DEFAULT '',
+phone_number INT UNSIGNED,
+email VARCHAR(20) NOT NULL DEFAULT '',
+type VARCHAR(20) NOT NULL DEFAULT '',
+social_insurance_number INT UNSIGNED NOT NULL DEFAULT 0,
+PRIMARY KEY (customer_id)
 );
 
 **Step 3: Inserting Data**  
