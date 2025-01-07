@@ -10,7 +10,7 @@ Currently, the airport’s operations rely on siloed, outdated systems. To impro
 
 The project involves the development of a new system, with the first module, AirMan, being developed by AirSoft, an Irish software company.
 
-**Project Approach**
+**Project Approach**  
 Step 1: Creating the ERD Diagram
 The first step was to identify the key entities and their attributes based on the project requirements. The ERD provides a visual representation of the database schema, showing how different entities are related to each other. The ERD provides a visual representation of the database schema, showing how different entities are related to each other.
 
