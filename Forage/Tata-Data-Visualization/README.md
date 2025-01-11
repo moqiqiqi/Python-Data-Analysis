@@ -2,7 +2,7 @@
 
 An online retail store wants to review their data and get valuable insights. Its business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year and  expand the business. 
 
-Tool - Tableau
+Tool - **Tableau** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
 
 Link to Interactive Dashboard: [Interative Dashboard](https://public.tableau.com/views/Tata_forage_visuals/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
